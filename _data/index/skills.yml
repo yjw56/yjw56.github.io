@@ -1,6 +1,6 @@
 # skills section data
 
-label: Ability
+label: 技能点
 id : cs
-aspects: GitHub, Motivation, HTML5, ReactJS, Machine Learing, Python, Sleeping
-percentage: 100, 35, 65, 80, 70, 90, 50
+aspects: 做饭, 写歌, 拎包, 买吃的, 跳舞, 写代码, 陪逛街
+percentage: 100, 100, 100, 100, 100, 100, 100
