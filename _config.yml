@@ -11,18 +11,18 @@ img_path: /Jalpc/static/assets/img/blog  # url should be '/homepage/static/asset
 
 # author -- index page "about me" section
 author:  # change following line to your infomation.
-  name: GitHub  # Be used at blog posts' author.
-  first_name: Hub  # Be used at index page about me section.
-  last_name: Git  # Be used at index page about me section.
+  name: 蕉蕉  # Be used at blog posts' author.
+  first_name: 面包  # Be used at index page about me section.
+  last_name: 超人  # Be used at index page about me section.
   avatar: /static/assets/img/landing/avatar.jpg  # upload your avatar at directory and edit it.
   # skill icons are on avatar's left and right side. Reference urls are http://fontawesome.io/ and http://fizzed.com/oss/font-mfizz
   skill_icon1:
-    - name: icon-apache
-    - name: fa-linux
+    - name: fa-heart-o
+    - name: fa-heart
   skill_icon2:
-    - name: fa-linux
-    - name: icon-apache
-  desc: 面包超人<br>haha<br>3rd  # Describe yourself.
+    - name: fa-heart
+    - name: fa-heart-o
+  desc: 面包超人<br>Let me be your Anpanman<br>I'll care for you the best I can<br>Let me be your Anpanman<br>We'll be dancing in the Wonderland<br>  # Describe yourself.
 
 # comment
 disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
