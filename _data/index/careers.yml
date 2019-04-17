@@ -1,43 +1,43 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: Company A
+    detail: 第一次见面
     i18n: company_a
   desc:
-    detail: I worked at Company A ...
+    detail: 有点小紧张，可惜不能一起攀岩呀
     i18n: company_a_desc
   date:
-    detail: Apr. 2016
+    detail: Feb.13
     i18n: company_a_date
   job:
-    detail: CTO
+    detail: 体育馆
     i18n: company_a_job
-  icon: fa-plus-square
+  icon: fa-heart
 
 - name:
-    detail: Company B
+    detail: 第一次约会？
     i18n: company_b
   desc:
-    detail: I worked at Company B ...
+    detail: 没想到第一次出来玩就是情人节233 话说你滑冰滑那么快干嘛！
     i18n: company_b_desc
   date:
-    detail: Jun. 2015
+    detail: Feb.14
     i18n: company_b_date
   job:
-    detail: Full Stack Developer
+    detail: City Hall溜冰场
     i18n: company_b_job
-  icon: fa-plus-square
+  icon: fa-heart
 
 - name:
-    detail: Company C
+    detail: 第一次一起跳舞
     i18n: company_b
   desc:
-    detail: I worked at Company C ...
+    detail: All I wanna do~~~
     i18n: company_b_desc
   date:
-    detail: Jun. 2019
+    detail: Feb.14
     i18n: company_b_date
   job:
-    detail: Full Stack Developer
+    detail: 舞协
     i18n: company_b_job
   icon: fa-heart
