@@ -2,8 +2,20 @@
 # Add items for each banner image in the carousel
 #
 # Images are expected to be located in `static/assets/img/`.
-- src: landing/1.png
-  title: 白眼
+- src: landing/1.jpg
+  title: 第一次约会
 
-- src: landing/2.jpg
-  title: 两只小狗
+- src: landing/2.png
+  title: 给你个大白眼
+  
+- src: landing/3.jpg
+  title: 摆pose
+
+- src: landing/4.jpg
+  title: 自拍的哈宝儿
+
+- src: landing/5.jpg
+  title: 放炮的两只哈宝儿
+
+- src: landing/6.jpg
+  title: 沉睡的哈宝儿
