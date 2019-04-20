@@ -144,7 +144,7 @@
     detail: GSE蛋糕交换黄金豆兔兔
     i18n: company_b
   desc:
-    detail: 傲娇萌开心都不表达的哦
+    detail: 傲娇萌心里开心都不表达的哦(๑•́ ₃ •̀๑)
     i18n: company_b_desc
   date:
     detail: Mar.12
@@ -177,4 +177,138 @@
   date:
     detail: Mar.16
     i18n: company_b_date
+  icon: fa-heart
+
+- name:
+    detail: 萌等不到shuttle生气了
+    i18n: company_a
+  desc:
+    detail: 我假装晚上去fresh grocer买东西路过，其实就是想escort你啦
+    i18n: company_a_desc
+  date:
+    detail: Mar.19
+    i18n: company_a_date
+  job:
+    detail: GSE
+    i18n: company_a_job
+  icon: fa-heart
+  
+- name:
+    detail: 第一次和萌单独逛超市
+    i18n: company_a
+  desc:
+    detail: 给萌推购物车逛grocer，嘻嘻有点谈恋爱的感觉
+    i18n: company_a_desc
+  date:
+    detail: Mar.22
+    i18n: company_a_date
+  job:
+    detail: Fresh Grocer
+    i18n: company_a_job
+  icon: fa-heart
+  
+- name:
+    detail: 第一次和萌下馆子吃饭
+    i18n: company_a
+  desc:
+    detail: 终于吃成了brunch！一起吃了白狗~然后一起喝了星巴克抹茶~
+    i18n: company_a_desc
+  date:
+    detail: Mar.24
+    i18n: company_a_date
+  job:
+    detail: White Dog
+    i18n: company_a_job
+  icon: fa-heart
+  
+- name:
+    detail: 没约成More Than Blue
+    i18n: company_a
+  desc:
+    detail: 时间打散了搞得萌很烦，只好带抹茶布丁来治愈你啦~
+    i18n: company_a_desc
+  date:
+    detail: Mar.30
+    i18n: company_a_date
+  job:
+    detail: GSE
+    i18n: company_a_job
+  icon: fa-heart
+  
+- name:
+    detail: 没约成More Than Blue
+    i18n: company_a
+  desc:
+    detail: 时间打散了搞得萌很烦，只好带抹茶布丁来治愈你啦~
+    i18n: company_a_desc
+  date:
+    detail: Mar.30
+    i18n: company_a_date
+  job:
+    detail: GSE
+    i18n: company_a_job
+  icon: fa-heart
+  
+- name:
+    detail: 接萌下班~
+    i18n: company_a
+  desc:
+    detail: 等你下班~然后买糖买菜吃四菜一汤~超开心撒
+    i18n: company_a_desc
+  date:
+    detail: Apr.5
+    i18n: company_a_date
+  job:
+    detail: North America Building
+    i18n: company_a_job
+  icon: fa-heart
+  
+- name:
+    detail: 不高兴的周三
+    i18n: company_a
+  desc:
+    detail: 约brunch萌又睡过，下午也没能陪逛街(>_<)
+    i18n: company_a_desc
+  date:
+    detail: Apr.10
+    i18n: company_a_date
+  icon: fa-heart
+  
+- name:
+    detail: 给萌拍饭拍~
+    i18n: company_a
+  desc:
+    detail: 站哥第一次拍饭拍，拍的可还行？kkkkk
+    i18n: company_a_desc
+  date:
+    detail: Apr.10
+    i18n: company_a_date
+  job:
+    detail: Houston Hall
+    i18n: company_a_job
+  icon: fa-heart
+  
+- name:
+    detail: 第一次陪萌逛街
+    i18n: company_a
+  desc:
+    detail: 第一次陪你逛gai看衣服，我很耐心吧嘻嘻。
+    i18n: company_a_desc
+  date:
+    detail: Apr.10
+    i18n: company_a_date
+  job:
+    detail: Urban Outfitter
+    i18n: company_a_job
+  icon: fa-heart
+  
+- name:
+    detail: To Be Continued...
+    i18n: company_a
+  date:
+    detail: Apr.20 - Future
+    i18n: company_a_date
+  job:
+    detail: Everywhere in the world
+    i18n: company_a_job
   icon: fa-heart
