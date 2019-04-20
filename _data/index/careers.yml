@@ -99,10 +99,10 @@
   icon: fa-heart
   
 - name:
-    detail: 第一次抢票~想陪你看演唱会
+    detail: 第一次抢票~想陪你看演唱会~
     i18n: company_b
   desc:
-    detail: 随缘就抢到了嘻嘻
+    detail: 一定是我的真心感动了抢票机器所以就抢到了嘻嘻
     i18n: company_b_desc
   date:
     detail: Mar.1
