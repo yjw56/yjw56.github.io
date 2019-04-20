@@ -88,7 +88,7 @@
     detail: 第一次一起自习
     i18n: company_b
   desc:
-    detail: 傻萌萌带着大瓶巧克力奶进图书馆哈哈
+    detail: 傻萌萌带着大瓶巧克力奶进图书馆哈哈~你说你也是第一次进VP自习~
     i18n: company_b_desc
   date:
     detail: Feb.22
@@ -158,7 +158,7 @@
     detail: 又一起自习啦
     i18n: company_b
   desc:
-    detail: 天气好在VP外面吹风~然后又去Art图书馆认真自习啦~晚上还在GSE又一起自习了一会儿~
+    detail: 天气好在VP外面吹风~然后又去Art图书馆认真自习啦~晚上练完舞还在GSE又一起自习了一会儿~充实的一天~
     i18n: company_b_desc
   date:
     detail: Mar.15
@@ -250,10 +250,10 @@
   icon: fa-heart
   
 - name:
-    detail: 不高兴的周三
+    detail: 有点小情绪的周三
     i18n: company_a
   desc:
-    detail: 约brunch萌又睡过，下午也没能陪逛街(>_<)
+    detail: 约brunch萌又睡过，下午有事也没能陪逛街(>_<)
     i18n: company_a_desc
   date:
     detail: Apr.10
