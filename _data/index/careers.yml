@@ -15,7 +15,7 @@
   icon: fa-heart
 
 - name:
-    detail: 第一次约会？
+    detail: 第一次约会
     i18n: company_b
   desc:
     detail: 没想到第一次出来玩就是情人节233 话说你滑冰滑那么快干嘛！
@@ -40,4 +40,141 @@
   job:
     detail: 舞协
     i18n: company_b_job
+  icon: fa-heart
+  
+- name:
+    detail: 集体看电影
+    i18n: company_b
+  desc:
+    detail: 流浪地球很好看，然鹅我们坐了人群的两头也太囧了555
+    i18n: company_b_desc
+  date:
+    detail: Feb.17
+    i18n: company_b_date
+  job:
+    detail: Riverview电影院
+    i18n: company_b_job
+  icon: fa-heart
+  
+- name:
+    detail: 搭档跳All I Wanna Do
+    i18n: company_b
+  desc:
+    detail: 虽然放炮很多，还是很开熏呀
+    i18n: company_b_desc
+  date:
+    detail: Feb.21
+    i18n: company_b_date
+  job:
+    detail: 舞协
+    i18n: company_b_job
+  icon: fa-heart
+  
+- name:
+    detail: 第一次单独吃饭（餐车hh）
+    i18n: company_b
+  desc:
+    detail: 发助教工资后请wuli萌吃猪jio饭~
+    i18n: company_b_desc
+  date:
+    detail: Feb.22
+    i18n: company_b_date
+  job:
+    detail: 体育馆餐车
+    i18n: company_b_job
+  icon: fa-heart
+
+- name:
+    detail: 第一次一起自习
+    i18n: company_b
+  desc:
+    detail: 傻萌萌带着大瓶巧克力奶进图书馆哈哈
+    i18n: company_b_desc
+  date:
+    detail: Feb.22
+    i18n: company_b_date
+  job:
+    detail: Van-Pelt Library
+    i18n: company_b_job
+  icon: fa-heart
+  
+- name:
+    detail: 第一次抢票~想陪你看演唱会
+    i18n: company_b
+  desc:
+    detail: 随缘就抢到了嘻嘻
+    i18n: company_b_desc
+  date:
+    detail: Mar.1
+    i18n: company_b_date
+  job:
+    detail: 家里
+    i18n: company_b_job
+  icon: fa-heart
+  
+- name:
+    detail: 第一次被萌放鸽子
+    i18n: company_b
+  desc:
+    detail: 虽然没定死时间，但是本来很期待一起吃brunch的，有点伤心呢
+    i18n: company_b_desc
+  date:
+    detail: Mar.5
+    i18n: company_b_date
+  job:
+    detail: Sabrina's
+    i18n: company_b_job
+  icon: fa-heart
+  
+- name:
+    detail: 第一次在萌家次饭
+    i18n: company_b
+  desc:
+    detail: 很用心的做的猪脚居然被嫌弃太咸(╥﹏╥) 一起看综艺吃雪糕很开心呐~
+    i18n: company_b_desc
+  date:
+    detail: Mar.7
+    i18n: company_b_date
+  job:
+    detail: 萌家
+    i18n: company_b_job
+  icon: fa-heart
+  
+- name:
+    detail: GSE蛋糕交换黄金豆兔兔
+    i18n: company_b
+  desc:
+    detail: 傲娇萌开心都不表达的哦
+    i18n: company_b_desc
+  date:
+    detail: Mar.12
+    i18n: company_b_date
+  job:
+    detail: GSE
+    i18n: company_b_job
+  icon: fa-heart
+  
+- name:
+    detail: 又一起自习啦
+    i18n: company_b
+  desc:
+    detail: 天气好在VP外面吹风~然后又去Art图书馆认真自习啦~晚上还在GSE又一起自习了一会儿~
+    i18n: company_b_desc
+  date:
+    detail: Mar.15
+    i18n: company_b_date
+  job:
+    detail: Art图书馆
+    i18n: company_b_job
+  icon: fa-heart
+  
+- name:
+    detail: 第一次Morning Call
+    i18n: company_b
+  desc:
+    detail: 傲娇萌不接电话，哼
+    i18n: company_b_desc
+  date:
+    detail: Mar.16
+    i18n: company_b_date
   icon: fa-heart
