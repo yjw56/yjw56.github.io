@@ -144,7 +144,7 @@
     detail: GSE蛋糕交换黄金豆兔兔
     i18n: company_b
   desc:
-    detail: 傲娇萌心里开心都不表达的哦(๑•́ ₃ •̀๑)
+    detail: 傲娇萌心里开心都不表达的哦<br>(๑•́ ₃ •̀๑)
     i18n: company_b_desc
   date:
     detail: Mar.12
@@ -236,24 +236,10 @@
   icon: fa-heart
   
 - name:
-    detail: 没约成More Than Blue
-    i18n: company_a
-  desc:
-    detail: 时间打散了搞得萌很烦，只好带抹茶布丁来治愈你啦~
-    i18n: company_a_desc
-  date:
-    detail: Mar.30
-    i18n: company_a_date
-  job:
-    detail: GSE
-    i18n: company_a_job
-  icon: fa-heart
-  
-- name:
     detail: 接萌下班~
     i18n: company_a
   desc:
-    detail: 等你下班~然后买糖买菜吃四菜一汤~超开心撒
+    detail: 等你下班~然后买糖买菜吃四菜一汤~超开心撒~
     i18n: company_a_desc
   date:
     detail: Apr.5
@@ -303,7 +289,7 @@
   icon: fa-heart
   
 - name:
-    detail: To Be Continued...
+    detail: ❤一起谈个甜甜的恋爱吧❤
     i18n: company_a
   date:
     detail: Apr.20 - Future
