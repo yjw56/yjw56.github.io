@@ -287,12 +287,26 @@
     detail: Urban Outfitter
     i18n: company_a_job
   icon: fa-heart
-  
+
+- name:
+    detail: Showcase!
+    i18n: company_a
+  desc:
+    detail: 演出成功！wuli萌跳得最棒！(≧∇≦)ﾉ
+    i18n: company_a_desc
+  date:
+    detail: Apr.20
+    i18n: company_a_date
+  job:
+    detail: Penn Museum
+    i18n: company_a_job
+  icon: fa-heart
+
 - name:
     detail: ❤一起谈个甜甜的恋爱吧❤
     i18n: company_a
   date:
-    detail: Apr.20 - Future
+    detail: Apr.21 - Future
     i18n: company_a_date
   job:
     detail: Everywhere in the world
