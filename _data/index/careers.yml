@@ -305,6 +305,9 @@
 - name:
     detail: ❤一起谈个甜甜的恋爱吧❤
     i18n: company_a
+  desc:
+    detail: 想和你一起跳Say You Won't Let Go呀~<br>◝(⑅•ᴗ•⑅)◜..°♡
+    i18n: company_a_desc
   date:
     detail: Apr.21 - Future
     i18n: company_a_date
