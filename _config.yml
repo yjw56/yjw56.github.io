@@ -62,3 +62,5 @@ kramdown:
   input: GFM
   syntax_highlighter: rouge
 
+# Google Analytics
+google_analytics: UA-138763616-1
